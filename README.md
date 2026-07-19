@@ -81,6 +81,6 @@ Word: A _ _ _ _
 
 ## 👨‍💻 Author
 
-Your Name
+**Shubh Pandey**
 
 CodeAlpha Python Programming Internship
